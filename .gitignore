@@ -106,3 +106,4 @@ text8.zip
 .idea/
 venv/
 test/
+nohup.out
