@@ -1,0 +1,9 @@
+keras==2.2.4
+tensorflow==1.13.2
+numpy
+matplotlib
+pydot
+jupyter
+sklearn
+nltk
+pandas
